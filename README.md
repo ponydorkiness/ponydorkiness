@@ -4,7 +4,6 @@
 
 Stuff about me!
 - I like ponies
-- My favorite coding language is javascript
 - I like seeing how computers can work even under minimal conditions
 - Expect to see more from me!
 - Do not expect my code to be perfect as I rarely polish any of it.
